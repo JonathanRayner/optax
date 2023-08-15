@@ -339,6 +339,7 @@ __all__ = (
     "smooth_labels",
     "softmax_cross_entropy",
     "softmax_cross_entropy_with_integer_labels",
+    "squared_error",
     "stateless",
     "stateless_with_tree_map",
     "trace",
